@@ -23,28 +23,4 @@ A dynamic and responsive web application built with **React.js**, optimized for 
 ```bash
 git clone https://github.com/your-username/React-Web-App.git
 cd React-Web-App
-2️⃣ Install Dependencies
 
-npm install
-3️⃣ Run the App
-
-npm start
-Open http://localhost:3000 in your browser.
-The page will reload when you make changes.
-📦 Deployment
-To create a production-ready build, run:
-
-npm run build
-This bundles the app into a build folder, ready for deployment.
-
-🎯 Additional Scripts
-Command	Description
-npm test	Runs unit tests
-npm run eject	Ejects the app (irreversible)
-npm run build	Builds the project for production
-📚 Learn More
-📖 Official React Documentation: React Docs
-
-📫 Contact Me
-📧 Email: mbias-ahmadzai@outlook.com
-🔗 LinkedIn: linkedin.com/in/mohammad-bais-ahmadzai-984241244
