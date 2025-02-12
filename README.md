@@ -23,3 +23,11 @@ A dynamic and responsive web application built with **React.js**, optimized for 
 ```bash
 git clone https://github.com/your-username/React-Web-App.git
 cd React-Web-App
+npm install
+npm start
+npm run build
+
+
+📫 Contact Me
+📧 Email: mbais-ahmadzai@outlook.com
+🔗 LinkedIn: linkedin.com/in/mohammad-bais-ahmadzai-984241244
