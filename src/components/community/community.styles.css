@@ -1,0 +1,36 @@
+.images1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 5%;
+}
+.images2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+@media only screen and (max-width: 56.25rem){
+    .images1{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        margin-left: 5%;
+        width: 100vh;
+    }
+    .images2{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        width: 100vh;
+    } 
+    .new1{
+        display: flex;
+        flex-direction: column;
+    }
+}
