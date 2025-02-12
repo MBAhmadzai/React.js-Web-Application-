@@ -23,4 +23,3 @@ A dynamic and responsive web application built with **React.js**, optimized for 
 ```bash
 git clone https://github.com/your-username/React-Web-App.git
 cd React-Web-App
-
